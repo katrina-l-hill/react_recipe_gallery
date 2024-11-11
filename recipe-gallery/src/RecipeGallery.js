@@ -13,7 +13,7 @@ const recipes = [
     { id: 10, title: "Banh Mi", ingredients: ["Baguette", "Pork", "Pickled vegetables", "Cilantro", "Chili"], image: "https://example.com/banhmi.jpg" }
   ];
 
-const RecipeGallery = () => {
+const RecipeGallery = ({ recipes }) => {
     //console.log(recipes);
     return (
         <div className="recipe-gallery">
