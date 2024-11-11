@@ -9,5 +9,5 @@ Challenges faced include proper key assignment for list items and component stru
 - Open DevMatch
 - Open online IDE or desktop IDE
 - Clone repo: https://git.devmatch.xyz/0f182038-0349-40c1-9291-5032ef2aa4a6.git
-- Cd into the project folder, `recipe gallery`
+- Cd into the project folder, `recipe-gallery`
 - Run `npm install`
